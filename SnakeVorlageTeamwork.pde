@@ -13,7 +13,7 @@
 //////////////////////////////////////////////////////////////////////////////////////////
 
 // ISSUES :
-// (1) Neue Food-Koordinaten können im Körper der Schlange liegen
+// (1) geloest
 // (2) Richtungsänderung um 180° ist möglich, wenn man innerhalb einer 1/10 Sekunde 
 //     erst um 90° und dann erneut um 90° dreht. 
 // (3) Beim Fressen des Puddings soll ein Sound erklingen
@@ -190,6 +190,7 @@ void zeichneFood() {
 
 // Ordnet dem Food neue Koordinaten zu
 void neueFoodKoordinaten(int n) {
+    // Tolle Lösung
     foodX=int(random(1,SpielfeldGroesseX-1));
     foodY=int(random(1,SpielfeldGroesseY-1));
 }  
