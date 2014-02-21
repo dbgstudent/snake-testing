@@ -12,6 +12,8 @@
 // F. Kick DBG Eppelheim
 //////////////////////////////////////////////////////////////////////////////////////////
 
+// Zweite Datei hinzugefügt...
+
 // ISSUES :
 // (1) geloest
 // (2) Richtungsänderung um 180° ist möglich, wenn man innerhalb einer 1/10 Sekunde 
