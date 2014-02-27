@@ -13,6 +13,7 @@
 //////////////////////////////////////////////////////////////////////////////////////////
 
 // Zweite Datei hinzugefügt...
+//Eigene Änderung: aus (1) ein (*) gemacht
 // STUDENT-Änderung:
 // Issue 2 gelöscht
 // Issue 3 Pudding durch Quark ersetzt.
