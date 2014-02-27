@@ -13,12 +13,13 @@
 //////////////////////////////////////////////////////////////////////////////////////////
 
 // Zweite Datei hinzugefügt...
+// STUDENT-Änderung:
+// Issue 2 gelöscht
+// Issue 3 Pudding durch Quark ersetzt.
 
 // ISSUES :
 // (1) geloest
-// (2) Richtungsänderung um 180° ist möglich, wenn man innerhalb einer 1/10 Sekunde 
-//     erst um 90° und dann erneut um 90° dreht. 
-// (3) Beim Fressen des Puddings soll ein Sound erklingen
+// (3) Beim Fressen des Quarks soll ein Sound erklingen
 // (4) Während dem Spiel soll der Punktestand eingeblendet werden
 // (5) Das Aussehen des FOODS soll sich nach jedem gefressen werden ändern
 // (6) Die Farbe der Körperteile soll vom Kopf ausgehend immer blasser werden
