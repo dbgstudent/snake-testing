@@ -17,6 +17,7 @@
 // STUDENT-Änderung:
 // Issue 2 gelöscht
 // Issue 3 Pudding durch Quark ersetzt.
+// WUNDERBAR
 
 // ISSUES :
 // (1) geloest
